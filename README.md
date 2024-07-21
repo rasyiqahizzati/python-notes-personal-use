@@ -1,1 +1,1 @@
-# python-notes-personal-use
+# python-project-personal
