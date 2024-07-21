@@ -1,0 +1,18 @@
+import turtle
+
+screen = turtle.Screen()
+screen.bgcolor("blue")
+screen.title("Drawing Limes Practice")
+
+my_turtle = turtle.Turtle()
+my_turtle.pensize(5)
+my_turtle.shape("circle")
+my_turtle.forward(100)
+
+my_turtle.left(45)
+my_turtle.penup()
+my_turtle.forward(100)
+my_turtle.pendown()
+my_turtle.forward(100)
+my_turtle.backward(100)
+
